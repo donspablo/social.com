@@ -1,5 +1,5 @@
 ---
-title: 'social.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'social.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "social.com is under construction."
 ---
 
